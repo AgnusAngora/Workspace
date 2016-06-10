@@ -1,0 +1,20 @@
+package cl.java.Builder;
+
+import java.util.ArrayList;
+
+public class BuilderAutoToyota extends BuilderAuto{
+
+	public Auto construir(){
+		ArrayList<Ruedas> ruedas = new ArrayList<Ruedas>();
+		ruedas.add(new Ruedas(2));
+		ruedas.add(new Ruedas(2));
+		ruedas.add(new Ruedas(2));
+		ruedas.add(new Ruedas(2));
+		GPS gps1 = new GPS("Random", 2016);
+		Motor motorToyota = new Motor(40);
+		
+		Auto autoToyota = new Auto("Toyota","Yaris",ruedas,gps1,40);
+		return null;
+	}
+	
+}

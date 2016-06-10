@@ -1,0 +1,7 @@
+package cl.java.Builder;
+
+public class GPS {
+
+	private String sO;
+	private int version;
+}

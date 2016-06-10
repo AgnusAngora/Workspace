@@ -1,0 +1,11 @@
+package cl.java.Builder;
+
+public class Director {
+	private BuilderAuto builder;
+	
+	public Auto construirAuto(){
+		
+		return this.builder.construir();
+	}
+	
+}

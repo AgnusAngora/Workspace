@@ -1,0 +1,9 @@
+package cl.java.Builder;
+
+public class BuilderAutoToyota extends BuilderAuto{
+
+	public Auto construir(){
+		return auto;
+	}
+	
+}

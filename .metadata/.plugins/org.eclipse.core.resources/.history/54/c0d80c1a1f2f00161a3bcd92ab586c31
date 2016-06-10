@@ -1,0 +1,6 @@
+package cl.java.Builder;
+
+public class Ruedas {
+	
+	private int diametro;
+}

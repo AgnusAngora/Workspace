@@ -1,0 +1,12 @@
+package cl.java.Builder;
+
+import java.util.ArrayList;
+
+public class Auto {
+	
+	private String marca;
+	private String modelo;
+	private ArrayList<Ruedas> Ruedas;
+	private GPS gps;
+	private Motor motor;
+}
