@@ -1,0 +1,9 @@
+2016-06-10 11:16:37,223 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Agnus\Workspace\ProjectMaven\pom.xml
+2016-06-10 11:16:43,137 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java:ProjectMaven:0.0.1-SNAPSHOT @ C:\Users\Agnus\Workspace\ProjectMaven\pom.xml.
+2016-06-10 11:16:45,676 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProjectMaven/src/main/java
+2016-06-10 11:16:45,683 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProjectMaven/src/test/java
+2016-06-10 11:16:47,290 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2016-06-10 11:16:48,461 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:16:48,461 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Agnus\Workspace\ProjectMaven\src\main\resources
+2016-06-10 11:16:48,463 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:16:48,464 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Agnus\Workspace\ProjectMaven\src\test\resources
